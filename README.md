@@ -22,5 +22,5 @@
 <img width="1600" height="807" alt="image" src="https://github.com/user-attachments/assets/0df7ae38-88c1-49af-9d33-ea3c26d2c034" />
 <img width="1852" height="857" alt="image" src="https://github.com/user-attachments/assets/bc5019dd-c447-4195-8e2f-e84978f4fd29" />
 <img width="1607" height="809" alt="image" src="https://github.com/user-attachments/assets/f3887abc-bebe-48d5-b30f-cf6ef5736093" />
-### Result
+## Result
 The IAM users were successfully assigned to their respective groups, and the required permissions were verified. user-1 received S3 read-only access, user-2 received EC2 read-only access, and user-3 received EC2 administrative access to start/stop instances. Thus, IAM users, groups, policies, and permissions were successfully explored and tested.
